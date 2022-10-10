@@ -1,0 +1,7 @@
+{
+  "name": "keyboard-flickering",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
